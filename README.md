@@ -1,4 +1,4 @@
-# screenshot-automation
+# F5-Screenshot-Automation
 Take screenshot with selenium automation
 
 trialv1.py --> Inital script
