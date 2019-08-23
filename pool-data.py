@@ -5,7 +5,7 @@ import time
 import string
 import itertools
 
-url = 'https://10.251.165.107'
+url = 'your-ip'
 
 def pool_properties():
     # open BRN2-10-F5-list folder and VS
