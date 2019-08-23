@@ -8,7 +8,7 @@ import itertools
 url = 'your-ip'
 
 def monitor_properties():
-    # open BRN2-10-F5-list folder and VS
+    # open list folder and VS
     g = open("C:\\Users\\hkramadhan\\PycharmProjects\\F5-Automate-Capture\\venv\\list.txt")
 
     for line1 in g:
